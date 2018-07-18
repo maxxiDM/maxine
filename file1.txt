@@ -1,2 +1,3 @@
 Welcome to GIT
 GIT is awesome!
+This is the third line
